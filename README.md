@@ -65,7 +65,9 @@ Com base nos dados, propomos as seguintes ações para a diretoria:
 
 ## 👤 Autor
 
-**Vitor Leal** *Estudante de Análise e Desenvolvimento de Sistemas - UNICAMP* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/vitorluizleal/))
+**Vitor Leal** *Estudante de Análise e Desenvolvimento de Sistemas - UNICAMP*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorluizleal/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor.lealprof@gmail.com)
 
 ---
